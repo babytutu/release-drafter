@@ -66,4 +66,4 @@ template: |
 
 ## 使用方式
 
-新建分支，推送变更后，执行`Pull requests`
+新建分支，推送变更后，执行`Pull requests`, 标记labels来分组
