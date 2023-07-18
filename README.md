@@ -63,3 +63,7 @@ template: |
 
   $CHANGES
 ```
+
+## 使用方式
+
+新建分支，推送变更后，执行`Pull requests`
